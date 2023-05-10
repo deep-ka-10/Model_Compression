@@ -1,0 +1,8 @@
+setup.py
+modelcompression/__init__.py
+modelcompression/modelcompression.py
+modelcompression.egg-info/PKG-INFO
+modelcompression.egg-info/SOURCES.txt
+modelcompression.egg-info/dependency_links.txt
+modelcompression.egg-info/requires.txt
+modelcompression.egg-info/top_level.txt
